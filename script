@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "enter a & b"
+read a b
+echo "addition of a and b is:"$num
+num= expr $a + $b
